@@ -4,7 +4,7 @@ for i in range(n+1,s):
     if(i%2==0):
         
        if c==0:
-           print (i,end=" ")
+           print (i,end="")
            c=c+1
        else:
-           print(i,end=" ")
+           print("",i,end="")
