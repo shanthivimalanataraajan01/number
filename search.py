@@ -4,6 +4,6 @@ c=len(b)
 for i in range(c):
         if(a==b[i]):
             print("yes")
-        else:
-            print("no")
+else:
+    print("no")
     
