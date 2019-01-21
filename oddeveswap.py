@@ -1,7 +1,7 @@
 s=input()
 b=[]
 for j in range(0,len(s)):
-    b.append(j)
+    b.append(s[j])
 a=""
 for i in range(0,len(b),2):
     b[i],b[i+1]=b[i+1],b[i]
