@@ -1,3 +1,4 @@
-s=input()
-k=int(input())
-print(s[:k])
+s,k=map(str,input().split())
+c=int(k)
+
+print(s[:c])
