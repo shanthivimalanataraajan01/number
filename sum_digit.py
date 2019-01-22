@@ -1,4 +1,5 @@
 n=int(input())
+#unique
 s=0
 while(n!=0):
     r=n%10
