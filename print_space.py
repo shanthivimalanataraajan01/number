@@ -1,4 +1,5 @@
 n=input()
+#fthi
 c=0
 for i in n:
     if(c==0):
